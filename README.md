@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-### It help understand the UI flow and major the Provider State management
+### Thsi project help understand some list method and  i use the spread operator and also the  UI flow and majorly the Provider State management
 
 A few resources to get you started if this is your first Flutter project:
 
